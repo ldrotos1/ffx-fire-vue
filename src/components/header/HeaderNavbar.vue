@@ -1,7 +1,5 @@
 <template>
-  <div>
-    Home
-  </div>
+  <div>Navbar</div>
 </template>
 
 <script setup>
