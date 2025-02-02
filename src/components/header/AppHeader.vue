@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid bg-primary">
+  <div class="container-fluid bg-primary bg-gradient">
     <HeaderBanner />
   </div>
 </template>

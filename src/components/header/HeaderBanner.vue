@@ -4,7 +4,7 @@
       <img src="../../../public/patches/ffx-fire-small.png"/>
     </div>
     <div class="display-5 fw-normal ms-3">
-      <span class="align-text-top">Fairfax County Fire & Rescue Operations</span>
+      <span class="align-text-top text-white">Fairfax County Fire & Rescue Operations</span>
     </div>
   </div>
 </template>

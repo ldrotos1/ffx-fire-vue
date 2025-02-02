@@ -1,0 +1,11 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$ffx-app-theme: (
+  "primary": #B71C1C,
+  "primary-background": #FFEBEE
+);
+
+$theme-colors: map-merge($theme-colors, $ffx-app-theme);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
